@@ -1,0 +1,46 @@
+.footer-container{
+    position: relative;
+}
+.footer-container>hr{
+    border: 1px solid var(--lightgray);
+}
+.footer-blur1{
+    width: 26rem;
+    height: 12rem;
+    bottom: 0rem;
+    right: 15%;
+    filter: blur(200px);
+    background-color: red;
+}
+.footer-blur2{
+    width: 26rem;
+    height: 12rem;
+    bottom: 0rem;
+    left: 15%;
+    filter: blur(200px);
+    background-color: rgb(212, 115, 0);
+}
+.footer{
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    align-items: center;
+    justify-content: center;
+    height: 20rem;
+}
+.footer-text{
+    font-family: MV Boli;
+    color: white;
+    gap: 0rem;
+    margin: 0;
+    padding: 0;
+    
+}
+.social-links{
+    display: flex;
+    gap: 4rem;
+}
+.logo-footer>img{
+    width: 10rem;
+}
