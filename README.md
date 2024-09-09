@@ -65,6 +65,7 @@
 
 - Live Web: [thefitclub-web.netlify.app](https://thefitclub-web.netlify.app)
 - GitHub Repo: Give it a Star!
+- Live Video Demo: [Link](https://youtu.be/Sc4ecUydWYQ?si=x4h_pW4S9m5OwciF)
 
 **Contact**
 
